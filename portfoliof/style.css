@@ -1,0 +1,22 @@
+#me{
+    display: flex;
+    justify-items: flex-start;
+    padding-left: 67px;
+    padding-top: 34px;
+    width: 476px;
+    height: 467px;
+}
+
+.all{
+flex-direction: row; 
+justify-content: space-between; 
+padding-left: 500px;
+
+}
+
+#solo{
+    padding-top: 30px;
+    text-decoration: dotted;
+    text-wrap: wrap;
+
+}

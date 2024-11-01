@@ -1,0 +1,42 @@
+.var{
+    background-color: darkturquoise;
+    
+}
+.port{
+    display: flex;
+    justify-content: space-between;
+    color: 500
+    #3F83F8;
+}
+#fan{
+
+    display: flex;
+    justify-content: left;
+    padding-left: 30px;
+    font-size: small;
+    width: 490px;
+    height: 560x;
+    padding-bottom: 360px;
+    
+
+
+}
+.note{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1600pxpx; 
+    color: 700
+    #1A56DB;
+    margin-right: 120px;
+    text-decoration-color: blue;
+
+    text-size-adjust: bold;
+}
+
+
+   
+    
+
+
+
